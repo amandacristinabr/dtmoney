@@ -4,6 +4,7 @@ O dt money é um projeto desenvolvido, atravéz das aulas da trilha chaspter II 
 para controle de finanças, com suas entradas e saídas e total.
 
 <h3> Tecnologias </h3>
+
 - ReactJs
 - TypeScript 
 - Styled Components 
