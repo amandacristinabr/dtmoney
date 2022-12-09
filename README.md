@@ -1,7 +1,7 @@
 <h1 align="center"> dtmoney </h1>
 <h3> Objetivo do Projeto </h3>
 O dt money é um projeto desenvolvido, atravéz das aulas da trilha chaspter II da Rocktseat,
-para controle de finanças, com suas entradas e saídas e total.
+para controle de finanças, com suas entradas, saídas e total.
 
 <h3> Tecnologias </h3>
 
